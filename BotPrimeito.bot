@@ -1,0 +1,18 @@
+{
+    "name": "BotPrimeito",
+    "description": "",
+    "services": [
+        {
+            "type": "endpoint",
+            "name": "http://localhost:5000/api/messages",
+            "id": "e0cc6170-b6d6-11ec-9124-4fc4d4fd7794",
+            "appId": "",
+            "appPassword": "",
+            "endpoint": "http://localhost:5000/api/messages"
+        }
+    ],
+    "padlock": "",
+    "version": "2.0",
+    "path": "C:\\Projetos\\FIAP\\Banco de dados\\Bot\\net2022-simple-bot\\BotPrimeito.bot",
+    "overrides": null
+}
