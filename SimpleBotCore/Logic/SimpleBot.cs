@@ -76,15 +76,10 @@ namespace SimpleBotCore.Logic
                 if( texto.EndsWith("?") )
                 {
                     await WriteAsync("Processando...");
+                    // FAZER: GRAVAR AS PERGUNTAS EM UM BANCO DE DADOS
                     _questionRepository.CadastrarPergunta(texto);
 
-                    // FAZER: GRAVAR AS PERGUNTAS EM UM BANCO DE DADOS
-                    string connectionString = "mongodb://localhost:27017/";
-                    var cliente = new MongoClient(connectionString);                 
-
-                    
                     await Task.Delay(5000);
-
                     await WriteAsync("Resposta não encontrada");
                 }
                 else
