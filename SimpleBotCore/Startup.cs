@@ -29,7 +29,8 @@ namespace SimpleBotCore
         {
             string connectionStringApp = Configuration["ConnectionStringMongoDB"];
             services.AddSingleton<IUserProfileRepository>(new UserProfileMockRepository());
-            services.AddSingleton<IQuestionRepository>(new QuestionRepository(connectionStringApp));
+            //services.AddSingleton<IQuestionRepository>(new QuestionRepository(connectionStringApp));
+            services.AddSingleton<IQuestionRepository>(new QuestionMockRepository());
             services.AddSingleton<IBotDialogHub, BotDialogHub>();
             services.AddSingleton<BotDialog, SimpleBot>();
 

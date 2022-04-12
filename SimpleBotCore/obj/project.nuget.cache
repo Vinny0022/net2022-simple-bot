@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qP6zoeQiAyVqJas+tz/VIL3D5xltek4jQjdG7EETmafc+1EjkVCcNcldBoadpNaiJFX7ibRnj/AdN3+ajvoPCg==",
+  "dgSpecHash": "g7zxVNjteaPlYWgJz+7EKADcH7a+hsDFazm2btzHoiBTh4QOLbX6pDsh9GuE3qzp7ecHsI2JYhwhfGyaS1evtw==",
   "success": true,
-  "projectFilePath": "C:\\Projetos\\FIAP\\Banco de dados\\Bot\\net2022-simple-bot\\SimpleBotCore\\SimpleBotCore.csproj",
+  "projectFilePath": "C:\\Users\\vini_\\OneDrive\\Área de Trabalho\\Documentos\\2022-03-05\\FIAP - MBA\\Banco de dados\\Banco de dados\\Bot\\net2022-simple-bot\\SimpleBotCore\\SimpleBotCore.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\vini_\\.nuget\\packages\\dnsclient\\1.6.0\\dnsclient.1.6.0.nupkg.sha512",
     "C:\\Users\\vini_\\.nuget\\packages\\microsoft.bot.connector\\4.14.1\\microsoft.bot.connector.4.14.1.nupkg.sha512",

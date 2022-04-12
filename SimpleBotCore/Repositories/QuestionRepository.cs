@@ -4,7 +4,7 @@ using System;
 
 namespace SimpleBotCore.Repositories
 {
-    public class QuestionRepository : IQuestionRepository
+    public class QuestionRepository //: IQuestionRepository
     {
         string _connectionString;
         public QuestionRepository(string connectionString)

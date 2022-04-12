@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projetos\\FIAP\\Banco de dados\\Bot\\net2022-simple-bot\\SimpleBotCore\\SimpleBotCore.csproj": {}
+    "C:\\Users\\vini_\\OneDrive\\Área de Trabalho\\Documentos\\2022-03-05\\FIAP - MBA\\Banco de dados\\Banco de dados\\Bot\\net2022-simple-bot\\SimpleBotCore\\SimpleBotCore.csproj": {}
   },
   "projects": {
-    "C:\\Projetos\\FIAP\\Banco de dados\\Bot\\net2022-simple-bot\\SimpleBotCore\\SimpleBotCore.csproj": {
+    "C:\\Users\\vini_\\OneDrive\\Área de Trabalho\\Documentos\\2022-03-05\\FIAP - MBA\\Banco de dados\\Banco de dados\\Bot\\net2022-simple-bot\\SimpleBotCore\\SimpleBotCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projetos\\FIAP\\Banco de dados\\Bot\\net2022-simple-bot\\SimpleBotCore\\SimpleBotCore.csproj",
+        "projectUniqueName": "C:\\Users\\vini_\\OneDrive\\Área de Trabalho\\Documentos\\2022-03-05\\FIAP - MBA\\Banco de dados\\Banco de dados\\Bot\\net2022-simple-bot\\SimpleBotCore\\SimpleBotCore.csproj",
         "projectName": "SimpleBotCore",
-        "projectPath": "C:\\Projetos\\FIAP\\Banco de dados\\Bot\\net2022-simple-bot\\SimpleBotCore\\SimpleBotCore.csproj",
+        "projectPath": "C:\\Users\\vini_\\OneDrive\\Área de Trabalho\\Documentos\\2022-03-05\\FIAP - MBA\\Banco de dados\\Banco de dados\\Bot\\net2022-simple-bot\\SimpleBotCore\\SimpleBotCore.csproj",
         "packagesPath": "C:\\Users\\vini_\\.nuget\\packages\\",
-        "outputPath": "C:\\Projetos\\FIAP\\Banco de dados\\Bot\\net2022-simple-bot\\SimpleBotCore\\obj\\",
+        "outputPath": "C:\\Users\\vini_\\OneDrive\\Área de Trabalho\\Documentos\\2022-03-05\\FIAP - MBA\\Banco de dados\\Banco de dados\\Bot\\net2022-simple-bot\\SimpleBotCore\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\vini_\\AppData\\Roaming\\NuGet\\NuGet.Config",
